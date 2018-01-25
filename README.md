@@ -1,0 +1,2 @@
+# gitSketch
+GitでSketchファイルを監視
